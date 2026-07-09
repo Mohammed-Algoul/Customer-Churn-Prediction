@@ -12,6 +12,9 @@ The objective of this project is to analyze customer behavior and build machine 
 
 ---
 
+![Dashboard](Dashboard_Customer_Prediction.png)
+
+
 ## 🎯 Objectives
 
 - Understand customer behavior through data analysis.
